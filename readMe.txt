@@ -1,0 +1,1 @@
+These are some basic games which mainly focuses on Logic and DOM  , Not styles
