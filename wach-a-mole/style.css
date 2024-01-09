@@ -1,0 +1,35 @@
+body{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+     background-color:darkgray;
+}
+.container{
+    width: 800px;
+    height: 800px;
+    border: 1px solid black;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content: center;
+}
+
+.squares{
+    width: 607px;
+    height: 607px;
+    border: solid 1px black;
+display: flex;
+flex-wrap: wrap;
+
+
+}
+.square{
+    border: solid 1px black;
+    height: 200px;
+    width: 200px;
+}
+.mole{
+    background-color: black;
+}
